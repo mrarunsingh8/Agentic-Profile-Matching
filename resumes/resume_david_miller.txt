@@ -1,0 +1,11 @@
+David Miller
+david.miller@example.com | +1 555 0199 | Seattle, WA
+SUMMARY
+Java engineer building low-latency trading systems.
+EXPERIENCE
+Staff Engineer, QuantEdge (2017-Present): Designed Java/Spring microservices and Kafka streaming pipelines.
+Software Developer, FinSys (2013-2017): C++ and Java development for order-matching engines.
+SKILLS
+Java, Spring Boot, Kafka, C++, Redis, Microservices
+EDUCATION
+B.S. Computer Engineering, University of Washington, 2013

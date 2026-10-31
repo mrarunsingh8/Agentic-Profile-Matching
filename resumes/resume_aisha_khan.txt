@@ -1,0 +1,11 @@
+Aisha Khan
+aisha.khan@example.com | +44 7700 900123 | London, UK
+SUMMARY
+Product manager with a background in fintech and mobile payments.
+EXPERIENCE
+Senior Product Manager, PayFlow (2021-Present): Owned roadmap for mobile wallet with 3M users; ran A/B tests.
+Product Analyst, BankLabs (2018-2021): Defined KPIs, wrote SQL reports, worked with engineering on Agile sprints.
+SKILLS
+Product strategy, Agile/Scrum, SQL, Jira, user research, A/B testing
+EDUCATION
+MBA, London Business School, 2018
